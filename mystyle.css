@@ -1,0 +1,22 @@
+body{
+    background: black;
+display: flex;
+justify-content: center;
+padding-top: 25px;
+}
+.box{
+display: flex;
+flex-direction: column;
+align-items: ceter;
+width: 50%;
+position: relative;
+}
+
+.button1{
+color: white;
+background: #d40100;
+margin-top: 15px;
+}
+.elaija{
+margin-top: 10px;
+}
