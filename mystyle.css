@@ -1,7 +1,5 @@
 body{
     background: black;
-display: flex;
-justify-content: center;
 padding-top: 25px;
 }
 .box{
@@ -20,3 +18,29 @@ margin-top: 15px;
 .elaija{
 margin-top: 10px;
 }
+h3{
+color: #d40100;
+position: absolute;
+bottom: -50px;
+right: 0px;
+}
+.rotateimg180 {
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+position: absolute;
+}
+.outer{
+display: flex;
+justify-content: center;
+}
+.down{
+width: 150px;
+position: fixed;
+right: 25px;
+bottom: 0px;
+}
+
+

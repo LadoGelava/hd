@@ -26,7 +26,7 @@ body{
 }
 
 ferebi araa aucilebeli saxelit iyos warmodgenili. 
-shegvidzlia kodshi mivutitot konkretuli feris kodi magalitad #232529
+shegvidzlia mivutitot konkretuli feris kodi magalitad #232529 RAC ARIS NACRISFERI
 
 body{
     background: #232529;
@@ -34,6 +34,6 @@ body{
 
 tu gchirdeba konkretuli feris tonebi, 
 dagugle magalitad shades of grey in hex codes 
-an shades of blue in hex codes da sasurveli feri aarchie
+an shades of blue in hex codes da sasurveli feri aarchie, wamoige kodi da chasvi
 
 tu daamugame ferebit manipulireba aqve dawere yes 2jer am teqstis qvemot.
